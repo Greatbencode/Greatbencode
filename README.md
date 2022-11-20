@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwasegun Olawale Benjamin, a Senior Researcher and Data Analyst @Lightway Research and Technology Centre, Nigeria.
-- 👀 I’m a Lifelong Learner and Software Engineering student at ALX.
+- 👀 I’m a Lifelong Learner and Software Engineering Student at ALX.
 - 🌱 I’m currently learning and exploring the Software Engineering Space.
 - 💞️ I’m looking to collaborate on key Software that will address the challenges facing the Healthcare Sector and the global economy.
 - 📫 Follow me and let's connect.
